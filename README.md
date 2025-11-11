@@ -37,3 +37,4 @@ footer and tables lists. Release 2 total difficulty points 3
 form, nav bar. Release 3 total difficulty points 5
 ### Final Total
 Product Release total difficulty points 12
+### notes maybe add buttons that match the color scheme of a page when you hover over them and when you don't
