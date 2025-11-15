@@ -32,8 +32,8 @@ Children interrested in monster films
 What are the Users' needs?
 Links to websites about cinemas and age ratings
 # User Stories
-1. As parent with a child that is interrested in monsters I want to know what age ratingings
-there are on monster films so that i can decide if I want to take my child to see a monster film
+1. As parent with a child that is interested in monsters I want to know what age ratings
+there are on monster films so that I can decide if I want to take my child to see a monster film
 2. As a teacher that wants to start a film club I want to know how much a monster film cd costs
 so I can decide what films I might put on in a film club
 3. As a child who wants to watch monster films I want to go to a cinema website so
@@ -72,4 +72,8 @@ Product Release total difficulty points 12
 # external source
 From bootstrap
 * [Bootstrap screen sizes for grid options](https://getbootstrap.com/docs/5.3/layout/breakpoints/)
+From youtube
+* [NerdOut! musical video from youtube on Godzilla](https://www.youtube.com/watch?v=okMyRuVLVl0)
+* [Aaron Fraser-Nash musical video from youtube on King Ghidorah](https://www.youtube.com/watch?v=S_mnlCuDljI)
+* [Aaron Fraser-Nash musical video from youtube on Rodan](https://www.youtube.com/watch?v=mkoaxHTHzgg)
 # Testing
