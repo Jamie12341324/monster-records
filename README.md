@@ -25,13 +25,13 @@ What are the Users' needs?
 Links to websites about cinemas and age ratings
 # User Stories
 1. As parent with a child that is interrested in monsters I want to know what age ratingings
-there on monster films so that  ican decide if I want to take my child to see a monster film
+there are on monster films so that i can decide if I want to take my child to see a monster film
 2. As a teacher that wants to start a film club I want to know how much a monster film cd costs
-so I cand ecide what films I might put on in a film club
-3.As a child who wants to watch monster films I want to go to a cinema website so
+so I can decide what films I might put on in a film club
+3. As a child who wants to watch monster films I want to go to a cinema website so
 I can reserve my spot at a cinema to watch a film
 4. As a monster film maker I want to know about the stats of different monsters so I
-5. can promote my film and write accurate books
+can promote my film and write accurate books
 # Acceptance criteria
 1. The shop page displays a list of testimonials
 2. The shop page displasys a star rating
