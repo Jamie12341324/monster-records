@@ -1,4 +1,12 @@
 # project1 or records about monsters
+# UX
+# Project goals
+## Viewer goals
+The main target audience for this website is 12 to 18 year olds
+Viewer goals are:
+* Interresting monster videos to watch
+* Have monster facts about how many 12 year old tall a monster is
+* 
 # Strategy Challenge
 Opportunity/Problem|Importance|Viability/Feasibility|Total
 ---|---|---|---
@@ -19,7 +27,7 @@ For the information to be clear
 sign up
 informed about new products
 useful links 
-Who are th users?
+Who are the users?
 Children interrested in monster films
 What are the Users' needs?
 Links to websites about cinemas and age ratings
@@ -34,7 +42,7 @@ I can reserve my spot at a cinema to watch a film
 can promote my film and write accurate books
 # Acceptance criteria
 1. The shop page displays a list of testimonials
-2. The shop page displasys a star rating
+2. The shop page displays a star rating
 3. The testimonials section is reposnisve and looks good on multiple devices
 # Tasks
 1. write a html unordered list for the testimonials
@@ -61,3 +69,7 @@ form, nav bar. Release 3 total difficulty points 5
 ### Final Total
 Product Release total difficulty points 12
 ### notes maybe add buttons that match the color scheme of a page when you hover over them and when you don't
+# external source
+From bootstrap
+* [Bootstrap screen sizes for grid options](https://getbootstrap.com/docs/5.3/layout/breakpoints/)
+# Testing
