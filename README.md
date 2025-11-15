@@ -69,10 +69,10 @@ form, nav bar. Release 3 total difficulty points 5
 ### Final Total
 Product Release total difficulty points 12
 ### notes maybe add buttons that match the color scheme of a page when you hover over them and when you don't
-# external source
-From bootstrap
+# External sources
+# From bootstrap
 * [Bootstrap screen sizes for grid options](https://getbootstrap.com/docs/5.3/layout/breakpoints/)
-From youtube
+# From youtube
 * [NerdOut! musical video from youtube on Godzilla](https://www.youtube.com/watch?v=okMyRuVLVl0)
 * [Aaron Fraser-Nash musical video from youtube on King Ghidorah](https://www.youtube.com/watch?v=S_mnlCuDljI)
 * [Aaron Fraser-Nash musical video from youtube on Rodan](https://www.youtube.com/watch?v=mkoaxHTHzgg)
