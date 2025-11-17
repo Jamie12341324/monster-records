@@ -94,6 +94,7 @@ Product Release total difficulty points 12
 # From things I made up
 * All the monster stats like Godzilla's stats are made up by me
 * Times Films and prices are all made up by me
+* The Awakening and the Vita are made up by me so are Diamond Muscles, Golden Bones and Molten Cores
 # From stack overflow
 *[how to center a iframe](https://stackoverflow.com/questions/8366957/how-to-center-an-iframe-horizontally)
 # From w3schools
