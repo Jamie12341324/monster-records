@@ -88,6 +88,8 @@ Product Release total difficulty points 12
 * [king ghidorah](https://wallpapers.com/wallpapers/king-ghidorah-1500-x-904-wallpaper-3jelas62x68nb63n.html)
 # From AI copilot
 * [link to AI chatbot that I used for finding the hex code for the dark navbar theme so I could color match it with the footer](https://copilot.microsoft.com/)
+# From stack overflow
+*[how to center a iframe](https://stackoverflow.com/questions/8366957/how-to-center-an-iframe-horizontally)
 # Testing
 # problem 1
 The navbar button wasn't working and when you click on it nothing happens the issue was I was missing a 
