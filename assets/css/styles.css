@@ -15,6 +15,15 @@
 #home-page-back-img{
     background-image:url(../images/images-for-html/rodan-znintsr46vlv41u1.jpg);
 }
+#godzilla-page-back-img{
+    background-image: url(../images/images-for-html/godzilla-dominance-over-cityscape.jpg);
+}
+#king-ghidorah-page-back-img{
+    background-image: url(../images/images-for-html/king-ghidorah);
+}
+#rodan-page-back-img{
+    background-image: url(../images/images-for-html/rodan-1280-x-882-mkjzoe6324kfao20.webp);
+}
 .padding1{
     padding-top: 4rem;
     color:var(--text-color1);

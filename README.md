@@ -85,6 +85,7 @@ Product Release total difficulty points 12
 * [Godzilla city image](https://wallpapers.com/wallpapers/godzilla-dominance-over-cityscape-igsni1rq48nf7yjv.html)
 * [4 Titans image](https://wallpapers.com/wallpapers/rodan-znintsr46vlv41u1.html)
 * [Rodan image](https://wallpapers.com/wallpapers/rodan-1280-x-882-mkjzoe6324kfao20.html)
+* [king ghidorah](https://wallpapers.com/wallpapers/king-ghidorah-1500-x-904-wallpaper-3jelas62x68nb63n.html)
 # From AI copilot
 * [link to AI chatbot that I used for finding the hex code for the dark navbar theme so I could color match it with the footer](https://copilot.microsoft.com/)
 # Testing
