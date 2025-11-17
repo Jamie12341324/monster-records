@@ -72,6 +72,7 @@ Product Release total difficulty points 12
 # External sources
 # From bootstrap
 * [Bootstrap screen sizes for grid options](https://getbootstrap.com/docs/5.3/layout/breakpoints/)
+* [Bootstrap buttons](https://getbootstrap.com/docs/5.3/components/buttons/)
 # From Font Awesome
 * [instagram icon from Font Awesome](https://fontawesome.com/icons/instagram?f=brands&s=solid)
 * [facebook icon from Font Awesome](https://fontawesome.com/icons/facebook?f=brands&s=solid)

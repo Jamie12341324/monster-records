@@ -34,6 +34,17 @@
     display:block;
     margin: 0 auto;
 }
+.center{
+    display:block;
+    margin: 0 auto;
+    margin-top:40px;
+    background-color: var(--background-color1);
+    border-color:white;
+}
+.center:hover{
+    background-color: white;
+    color:var(--text-color2);
+}
 .padding1{
     padding-top: 4rem;
     color:var(--text-color1);
