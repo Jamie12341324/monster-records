@@ -1,6 +1,7 @@
 :root{
     --background-color1:#212529;
     --text-color1:white;
+    --text-color2:#212529;
 }
 .background1{
     background-color: var(--background-color1);
@@ -13,7 +14,12 @@
     padding-top:4rem;
 }
 #home-page-back-img{
+    margin-top:180px;
     background-image:url(../images/images-for-html/rodan-znintsr46vlv41u1.jpg);
+}
+#header-back h1{
+    background-color:white;
+    color:var(--text-color2);
 }
 #godzilla-page-back-img{
     background-image: url(../images/images-for-html/godzilla-dominance-over-cityscape.jpg);
@@ -33,16 +39,30 @@
     color:var(--text-color1);
 }
 .padding2{
-    padding-top: 10rem;
+    padding-top: 1rem;
     color:var(--text-color1);
 }
 .padding3{
-    padding:4rem;
+    padding-top:200px;
+    padding-bottom:200px;
+    border-bottom:100px;
+    min-height: 1000px;
+    min-width: 400px;
+}
+.table-1{
+    background-color: var(--background-color1);
+    color:var(--text-color1);
+    min-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .white-text{
     color:var(--text-color1);
 }
+.white-text >a{
+    color:var(--text-color1);
+}
 header{
-    position: fixed;
+    position: absolute;
     width:100%;
 }

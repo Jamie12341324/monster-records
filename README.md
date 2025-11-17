@@ -92,6 +92,8 @@ Product Release total difficulty points 12
 * [link to AI chatbot that I used for finding the hex code for the dark navbar theme so I could color match it with the footer](https://copilot.microsoft.com/)
 # From stack overflow
 *[how to center a iframe](https://stackoverflow.com/questions/8366957/how-to-center-an-iframe-horizontally)
+# From w3schools
+* [centering a table example from w3schools](https://www.w3schools.com/howto/howto_css_table_center.asp)
 # Testing
 # problem 1
 The navbar button wasn't working and when you click on it nothing happens the issue was I was missing a 
