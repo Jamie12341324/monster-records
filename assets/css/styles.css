@@ -56,6 +56,10 @@
     margin-left: auto;
     margin-right: auto;
 }
+.table-1 div table tr th{
+    width:150px;
+    padding-top:25px;
+}
 .white-text{
     color:var(--text-color1);
 }

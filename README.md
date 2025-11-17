@@ -90,6 +90,9 @@ Product Release total difficulty points 12
 *[image of baby mothra and godzilla for age ratings](https://uk.pinterest.com/pin/818107088541699015/)
 # From AI copilot
 * [link to AI chatbot that I used for finding the hex code for the dark navbar theme so I could color match it with the footer](https://copilot.microsoft.com/)
+# From things I made up
+* All the monster stats like Godzilla's stats are made up by me
+* Times Films and prices are all made up by me
 # From stack overflow
 *[how to center a iframe](https://stackoverflow.com/questions/8366957/how-to-center-an-iframe-horizontally)
 # From w3schools
