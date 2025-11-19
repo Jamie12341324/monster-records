@@ -68,6 +68,29 @@ a:hover{
     min-height: 1100px;
     min-width: 400px;
 }
+.padding4{
+    margin-top:75px;
+    padding:50px;
+}
+.padding5{
+    margin-left:40%;
+    margin-top:25px;
+}
+.top-input{
+    width:100%;
+}
+#form-box{
+    width:30%;
+    margin-left:100px;
+    background-color: rgba(0,0,0,0.5);
+    color:var(--text-color1);
+}
+#capital{
+    text-transform:uppercase;
+}
+#radio-button-spacing{
+    padding-top:25px;
+}
 .table-1{
     background-color: var(--background-color1);
     color:var(--text-color1);

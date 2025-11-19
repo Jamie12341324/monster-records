@@ -123,6 +123,8 @@ images that I actually used in my readme file which the links to are below
 *[image of baby mothra and godzilla for age ratings](https://uk.pinterest.com/pin/818107088541699015/)
 # From AI copilot
 * [link to AI chatbot that I used for finding the hex code for the dark navbar theme so I could color match it with the footer](https://copilot.microsoft.com/)
+*[link for AI chatbot for explaining how to do a transparent black background](https://www.bing.com/copilotsearch?q=how+do+you+set+a+id+in+css+to+transparent+black&form=CSBRAND)
+*[link to AI chatbot for explaining how to change in the letters in a tag to uppercase](https://www.bing.com/copilotsearch?q=how+do+you+set+all+the+letter+in+a+tag+to+uppercase+css&form=CSBRAND)
 # From freeCodeCamp
 * [removing underline from link guide](https://www.freecodecamp.org/news/remove-underline-from-link-in-css/)
 # From things I made up
