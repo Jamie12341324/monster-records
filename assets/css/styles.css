@@ -85,6 +85,9 @@ a:hover{
     background-color: rgba(0,0,0,0.5);
     color:var(--text-color1);
 }
+.back1{
+    background-color: rgba(0,0,0,0.5);
+}
 #capital{
     text-transform:uppercase;
 }
