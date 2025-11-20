@@ -135,6 +135,8 @@ images that I actually used in my readme file which the links to are below
 *[how to center a iframe](https://stackoverflow.com/questions/8366957/how-to-center-an-iframe-horizontally)
 # From w3schools
 * [centering a table example from w3schools](https://www.w3schools.com/howto/howto_css_table_center.asp)
+# From geeks for geeks website
+* [how to have a button with a link wihtout having the button as a child of the a tag](https://www.geeksforgeeks.org/html/how-to-create-an-html-button-that-acts-like-a-link/)
 # Testing
 # problem 1
 The navbar button wasn't working and when you click on it nothing happens the issue was I was missing a 
@@ -208,6 +210,57 @@ text the text goes black so you can still see it) thi might be because I had som
 that were pretty much the same and the bootstrap was overwriting the button tag class but not the a tag so things only 
 chnaged while you hover over the a tag which just has text
 ![a and button tags in the right order](assets/images/images-for-readme/error15.PNG)
+---
+# html validator
+These are the issues I got when I put my index.html page into html validator.
+![The problems I had when I first put my index.html file into html validator](assets/images/images-for-readme/index-html-validator.PNG)
+---
+Here we have a tag I deleted like the validator suggested.
+---
+![tag ending problem](assets/images/images-for-readme/index-valid1.PNG)
+---
+According to the html validator I should not have this frameborder attribute so I got rid of it.
+---
+![frameborder problem](assets/images/images-for-readme/index-valid2.PNG)
+---
+I was missing a main closing tag so I added one in and it looks like this and after I put my page back into the validator it said
+there were no errors.
+---
+![missing closing tag](assets/images/images-for-readme/index-valid3.PNG)
+---
+These are the issues I got when I put my godzilla.html page into html validator.
+![The problems I had when I first put my godzilla.html file into html validator](assets/images/images-for-readme/godzilla-html-validator.PNG)
+---
+![](assets/images/images-for-readme/godzilla-html-valid-fix1.PNG)
+---
+Here there was a / for no apparent readon so I got rid of it.
+---
+![](assets/images/images-for-readme/godzilla-html-valid-fix2.PNG)
+---
+Here the validator picked up that there was a p tag that was closed but never opened so I removed it
+There was also a frameborder that got removed just like with the index.html page. After putting
+the page back into the validator there were no more errors.
+---
+These are the issues I got when I put my king-ghidorah.html page into html validator
+![The problems I had when I first put my king-ghidorah.html file into html validator](assets/images/images-for-readme/king-ghidorah-html-validator.PNG)
+---
+There was also a frameborder that got removed just like with the index.html page and also similarly a / that I removed I also add a closing
+main tag. None of which I have images for king-ghidorah because I already have a image of all those issues for other pages. After putting
+the page back into the validator there were no more errors.
+---
+These are the issues I got when I put my rodan.html page into html validator
+![The problems I had when I first put my rodan.html file into html validator](assets/images/images-for-readme/rodan-html-validator.PNG)
+---
+All the issues with the rodan page were the same as the king-ghidorah page and now the validator says there are no errors.
+---
+These are the issues I got when I put my booking-form.html page into html validator
+![The problems I had when I first put my booking-form.html file into html validator](assets/images/images-for-readme/booking-form-html-validator.PNG)
+---
+![form with no white spacing](assets/images/images-for-readme/booking-forn-validator1.PNG)
+Here there was the issue with the random / which has now been removed. The other six issues are pretty much the same issue were I incorrectly used white space on a label id but 3 times for input tags and 3 times for label tags.
+---
+# css validator
+The first time I put my css into the validator it said there were no errors so I don't have any issue fixing for it.
 ---
 Deployment
 explain that you delpoyed to github page
