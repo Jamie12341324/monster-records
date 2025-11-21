@@ -290,7 +290,28 @@ which it does
 ![form success page](assets/images/images-for-readme/Final-success-page-testing2.PNG)
 * Test 9 the site has a custom 404 error pag whcih you can see in the image below
 ![Error 404 page](assets/images/images-for-readme/Error-page-testing.PNG)
-
-Deployment
-explain that you delpoyed to github page
-how to make a clone fork
+# How do you deploy your site?
+A guide to publishing a site on github was found at 
+[Link to guide on publishing](https://www.educative.io/answers/how-to-make-your-site-live-on-github-pages)
+To add a new file you use the git commnads 
+git add new_file_name 
+git commit -m "comments about the new file"
+git push
+To update changes to a existing file use
+git commit -m "comments about the changes" 
+and git push
+This works for a single developer.
+If other developers have cloned and changed the site
+then you should do a git pull command to download the 
+other developers changes. This was discovered when I 
+updated my readme on the github site and I had to pull
+the latest readme file back onto my computer before github
+would let me push any changes.
+Some information and advice on this was obtained
+from stackoverflow.com via google
+# Deployment
+The first time I had to delpoy my site I 
+went to setting in github and selcted pages.
+Then I selcted the main branch to delpoy from 
+and clicked save. Then I waited for my url to appear.
+Some help was obtained from the guide mention above.
