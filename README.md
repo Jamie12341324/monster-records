@@ -35,7 +35,34 @@
 - [From geeks for geeks website](#From-geeks-for-geeks-website)
 - [From icon-icons](#From-icon-icons)
 # [Debugging](#Debugging)
+- [problem 1](#problem-1)
+- [problem 2](#problem-2)
+- [problem 3](#problem-3)
+- [problem 4](#problem-4)
+- [problem 5](#problem-5)
+- [problem 6](#problem-6)
+- [problem 7](#problem-7)
+- [problem 8](#problem-8)
+- [problem 9](#problem-9)
+- [problem 10](#problem-10)
+- [problem 11](#problem-11)
+- [problem 12](#problem-12)
+- [problem 13](#problem-13)
+- [problem 14](#problem-14)
+- [problem 15](#problem-15)
 - [html validator](#html-validator)
+- [problem 16](#problem-16)
+- [problem 17](#problem-17)
+- [problem 18](#problem-18)
+- [godzilla.html problems](#godzilla.html-problems)
+- [problem 19](#problem-19)
+- [problem 20](#problem-20)
+- [king-ghidorah.html problems](#king-ghidorah.html-problems)
+- [problem 21](#problem-21)
+- [rodan.html problems](#rodan.html-problems)
+- [booking-form.html problems](#booking-form.html-problems)
+- [problem 22](#problem-22)
+- [success.html problems](#success.html-problems)
 - [css validator](#css-validator)
 - [Lighthouse](#Lighthouse)
 - [Testing the finshed site](#Testing-the-finshed-site)
@@ -186,66 +213,80 @@ link from bootstrap that goes at the end of your code just before the closing bo
 ---
 ![image of navbar button having dropped down like it is meant to](assets/images/images-for-readme/error1.PNG "navbar button")
 ---
+# problem 2
 The issue here was the navbar appears on the side of the screen instead of the top to fix this I added the fixed-top class to the
 nav tag
 ---
 ![image of side navbar](assets/images/images-for-readme/error2.PNG)
 ---
+# problem 3
 Here you can see the newer version with the navbar at the top
 ---
 ![image of fixed top navbar](assets/images/images-for-readme/error3.PNG)
 ---
+# problem 4
 Orignally the red background was on top of the footer so it looked like part of the footer was missing
 if I remember correctly I fixed this problem by adding the fixed-bottom class to the footer
 ---
 ![fixed footer](assets/images/images-for-readme/error4.PNG)
 ---
+# problem 5
 This is a failed attempt to fix the same problem
 ---
 ![broken footer](assets/images/images-for-readme/error5.PNG)
 ---
+# problem 6
 This is a image of a fixed url that had ../assets at the start instead of ../images
 ---
 ![fixed url](assets/images/images-for-readme/error6.PNG)
 ---
+# problem 7
 For a while when I was trying to use an iframe to embed a youtube video I got an error 153
 however when you look at the page from github as a deployed site the video/iframe works
 ---
 ![working video](assets/images/images-for-readme/error7.PNG)
 ---
+# problem 8
 Orginally when the header position was fixed it moved down with the navbar which I thought looked wrong
 I also tried a postion relative but that brought back the problem with the footer so in the end I used
 a position absolute which works
 ---
 ![working header position](assets/images/images-for-readme/error8.PNG)
 ---
+# problem 9
 When I first made the table for age and height the columns were to close together so I
 tested a style with extra width in the end I made a class called table-1 with set the width
 to 150 solving the isssue so that the is enough distence between the columns so that you can read the text
 ---
 ![table styling](assets/images/images-for-readme/error9.PNG)
 ---
+# problem 10
 This is what the table looked like after it had been styled
 ---
 ![table with extra width](assets/images/images-for-readme/error10.PNG)
 ---
+# problem 11
 When I first did this class I forgot a few selectors like div tr
 ---
 ![table class with the right selectors](assets/images/images-for-readme/error11.PNG)
 ---
+# problem 12
 First I tired to import a button from boostrap
 ---
 ![button tag](assets/images/images-for-readme/error12.PNG)
 ---
+# problem 13
 I needed a link from the book now button to the booking-form page but the a link made the text
 on the button blue and highlighted
 ---
 ![button with a tag and highlighted blue text](assets/images/images-for-readme/error13.PNG)
 ---
+# problem 14
 I tried making my own button but it took up the whole screen so I scraped it
 ---
 ![](assets/images/images-for-readme/error14.PNG)
 ---
+# problem 15
 I changed my button so that the button tag was inside an a tag instead of it being the other way around
 this solved the issue of th whole button going white when you hovered over the very edge (when you hover over the
 text the text goes black so you can still see it) thi might be because I had some styles for the a and button tag 
@@ -257,51 +298,76 @@ chnaged while you hover over the a tag which just has text
 These are the issues I got when I put my index.html page into html validator.
 ![The problems I had when I first put my index.html file into html validator](assets/images/images-for-readme/index-html-validator.PNG)
 ---
+# problem 16
 Here we have a tag I deleted like the validator suggested.
 ---
 ![tag ending problem](assets/images/images-for-readme/index-valid1.PNG)
 ---
+# problem 17
 According to the html validator I should not have this frameborder attribute so I got rid of it.
 ---
 ![frameborder problem](assets/images/images-for-readme/index-valid2.PNG)
 ---
+# problem 18
 I was missing a main closing tag so I added one in and it looks like this and after I put my page back into the validator it said
-there were no errors.
+there were no errors. This is the html validator passing with no errors.
 ---
 ![missing closing tag](assets/images/images-for-readme/index-valid3.PNG)
 ---
+![index.html passing the html validator with no errors](assets/images/images-for-readme/index-no-issues-html-validator.PNG)
+---
+# godzilla.html problems
 These are the issues I got when I put my godzilla.html page into html validator.
 ![The problems I had when I first put my godzilla.html file into html validator](assets/images/images-for-readme/godzilla-html-validator.PNG)
 ---
 ![](assets/images/images-for-readme/godzilla-html-valid-fix1.PNG)
 ---
+# problem 19
 Here there was a / for no apparent readon so I got rid of it.
 ---
 ![](assets/images/images-for-readme/godzilla-html-valid-fix2.PNG)
 ---
+# problem 20
 Here the validator picked up that there was a p tag that was closed but never opened so I removed it
 There was also a frameborder that got removed just like with the index.html page. After putting
-the page back into the validator there were no more errors.
+the page back into the validator there were no more errors. This is the html validator passing with no errors.
 ---
+![godzilla.html passing html validator with no errors](assets/images/images-for-readme/godzilla-no-issues-html-validator.PNG)
+---
+# king-ghidorah.html problems
 These are the issues I got when I put my king-ghidorah.html page into html validator
 ![The problems I had when I first put my king-ghidorah.html file into html validator](assets/images/images-for-readme/king-ghidorah-html-validator.PNG)
 ---
+# problem 21
 There was also a frameborder that got removed just like with the index.html page and also similarly a / that I removed I also add a closing
 main tag. None of which I have images for king-ghidorah because I already have a image of all those issues for other pages. After putting
-the page back into the validator there were no more errors.
+the page back into the validator there were no more errors. This is the html validator passing with no errors.
 ---
+![king-ghidorah.html passing a html validator with no errors](assets/images/images-for-readme/king-ghidorah-no-issues-html-validator.PNG)
+---
+# rodan.html problems
 These are the issues I got when I put my rodan.html page into html validator
 ![The problems I had when I first put my rodan.html file into html validator](assets/images/images-for-readme/rodan-html-validator.PNG)
 ---
-All the issues with the rodan page were the same as the king-ghidorah page and now the validator says there are no errors.
+All the issues with the rodan page were the same as the king-ghidorah page and now the validator says there are no errors.This is the html validator passing with no errors.
 ---
+![rodan.html](assets/images/images-for-readme/rodan-no-issues-html-validator.PNG)
+---
+# booking-form.html problems
 These are the issues I got when I put my booking-form.html page into html validator
 ![The problems I had when I first put my booking-form.html file into html validator](assets/images/images-for-readme/booking-form-html-validator.PNG)
 ---
+# problem 22
 ![form with no white spacing](assets/images/images-for-readme/booking-forn-validator1.PNG)
-Here there was the issue with the random / which has now been removed. The other six issues are pretty much the same issue were I incorrectly used white space on a label id but 3 times for input tags and 3 times for label tags.
+Here there was the issue with the random / which has now been removed. The other six issues are pretty much the same issue where I incorrectly used white space on a label id but 3 times for input tags and 3 times for label tags. This is the html validator passing with no errors.
 ---
-My success page had no errors when I put through the html validator
+![booking-form.html passing a validator with no errors](assets/images/images-for-readme/booking-form-no-issues-html-validator.PNG)
+---
+# success.html problems
+![html validator check with no poblems](assets/images/images-for-readme/success-html-validator.PNG)
+My success page had no errors when I put through the html validator. This is the html validator passing with no errors.
+---
+![success.html passing a validator with no errors](assets/images/images-for-readme/success-html-validator.PNG)
 # css validator
 The first time I put my css into the validator it said there were no errors so I don't have any issue fixing for it.
 ---
