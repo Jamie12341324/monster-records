@@ -86,7 +86,7 @@ a:hover{
     width:100%;
 }
 #form-box{
-    width:30%;
+    width:60%;
     margin-left:100px;
     background-color: rgba(0,0,0,0.5);
     color:var(--text-color1);
@@ -114,7 +114,7 @@ a:hover{
 .table-1{
     background-color: var(--background-color1);
     color:var(--text-color1);
-    min-width: 1000px;
+    min-width: 400px;
     margin-left: auto;
     margin-right: auto;
 }

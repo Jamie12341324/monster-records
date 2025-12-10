@@ -95,11 +95,11 @@ tables stack on top of eachother using a boostrap grid system
 because I only seemed to be able to download one file even though there were 5 so I had to move each one to the top
 of the list before exporting it. Later markdown was unable to show any of my PDFs so I used snipping tool to get the wireframe
 images that I actually used in my readme file which the links to are below 
-* ![Wireframe Small Page](assets/images/images-for-readme/Small-wireframe.PNG)
-* ![Wireframe Medium Page](assets/images/images-for-readme/Medium-wireframe.PNG)
-* ![Wireframe Large Page](assets/images/images-for-readme/Large-wireframe.PNG)
-* ![Wireframe Extra Large page](assets/images/images-for-readme/Extra-Large-wireframe.PNG)
-* ![Wireframe home page](assets/images/images-for-readme/Home-wireframe.PNG)
+* ![Wireframe Small Page](assets/images/images-for-readme/small-wireframe.PNG)
+* ![Wireframe Medium Page](assets/images/images-for-readme/medium-wireframe.PNG)
+* ![Wireframe Large Page](assets/images/images-for-readme/large-wireframe.PNG)
+* ![Wireframe Extra Large page](assets/images/images-for-readme/extra-Large-wireframe.PNG)
+* ![Wireframe home page](assets/images/images-for-readme/home-wireframe.PNG)
 ### notes maybe add buttons that match the color scheme of a page when you hover over them and when you don't
 # External sources
 # From bootstrap
@@ -273,28 +273,28 @@ The first time I put my css into the validator it said there were no errors so I
 * Test 2 the content is positions so the footer and navbar don't stop you seeing it which it does
 * Test 3 you can play the videos on the godzilla, index/home, rodan and king ghidorah pages which works
 * Test 4 the text is visable and the text stands out as white on mostly dark backgrounds
-![Top of the home page](assets/images/images-for-readme/Final-index-page-testing1.PNG)
-![Bottom of the home page](assets/images/images-for-readme/Final-index-page-testing2.PNG)
-![Top of the godzilla page](assets/images/images-for-readme/Final-godzilla-page-testing2.PNG)
+![Top of the home page](assets/images/images-for-readme/final-index-page-testing1.PNG)
+![Bottom of the home page](assets/images/images-for-readme/final-index-page-testing2.PNG)
+![Top of the godzilla page](assets/images/images-for-readme/final-godzilla-page-testing2.PNG)
 ---
 * Test 5 the tables on the godzilla, king ghidorah and rodan pages are reponsive so they stack when the screen is to small to see them all at once
 here we have images of the tables each at 1/6, 1/3, 1/2 and 1/1 of the full screen for sizes xl lg md and default
 which could represent viewing on desktop tablet and mobile which has seemed to work in the images below
 ---
-![resized godzilla page](assets/images/images-for-readme/Final-godzilla-page-testing2-grid.PNG)
-![resized godzilla page](assets/images/images-for-readme/Final-godzilla-page-testing2-grid2.PNG)
-![resized godzilla page](assets/images/images-for-readme/Final-godzilla-page-testing2-grid3.PNG)
+![resized godzilla page](assets/images/images-for-readme/final-godzilla-page-testing2-grid.PNG)
+![resized godzilla page](assets/images/images-for-readme/final-godzilla-page-testing2-grid2.PNG)
+![resized godzilla page](assets/images/images-for-readme/final-godzilla-page-testing2-grid3.PNG)
 * Test 6 the background images fill the avaliable space and are behind the main content which I think is true 
 for all the pages
-![king ghidorah page](assets/images/images-for-readme/Final-king-ghidorah-page-testing1.PNG)
-![rodan page](assets/images/images-for-readme/Final-rodan-page-testing1.PNG)
+![king ghidorah page](assets/images/images-for-readme/final-king-ghidorah-page-testing1.PNG)
+![rodan page](assets/images/images-for-readme/final-rodan-page-testing1.PNG)
 * Test 7 the form has all fields required before any information can be submited which is true
-![form page](assets/images/images-for-readme/Final-form-page-testing2.PNG)
+![form page](assets/images/images-for-readme/final-form-page-testing2.PNG)
 * Test 8 once the form is correctly submited the user is taken to a success page to show everything has worked 
 which it does
-![form success page](assets/images/images-for-readme/Final-success-page-testing2.PNG)
+![form success page](assets/images/images-for-readme/final-success-page-testing2.PNG)
 * Test 9 the site has a custom 404 error pag whcih you can see in the image below
-![Error 404 page](assets/images/images-for-readme/Error-page-testing.PNG)
+![Error 404 page](assets/images/images-for-readme/error-page-testing.PNG)
 # How do you deploy your site?
 A guide to publishing a site on github was found at 
 [Link to guide on publishing](https://www.educative.io/answers/how-to-make-your-site-live-on-github-pages)
