@@ -1,4 +1,44 @@
 # project1 or records about monsters
+# Table of contents
+[UX](#UX)
+[Project goals](#Project-goals)
+[Viewer goals](#Viewer-goals)
+[Strategy Challenge](#Strategy-Challenge)
+[Business goals](#Business-goals)
+[User needs](#user-needs)
+[User Stories](#User-Stories)
+# [These are my orignal acceptance criteria and tasks](#These-are-my-orignal-acceptance-criteria-and-tasks)
+- [Acceptance criteria](#Acceptance-criteria)
+- [Tasks](#Tasks)
+# [Later I put some different things on my github project like](#Later-I-put-some-different-things-on-my-github-project-like)
+- [Acceptance criteria 2](#Acceptance-criteria-2)
+- [Tasks 2](#Tasks-2)
+[Scope Challenge](#Scope-Challenge)
+# [Product Rollout](#Product-Rollout)
+- [Release-1](#Release-1)
+- [Release-2](#Release-2)
+- [Release-3](#Release-3)
+- [Final Total](#Final-Total)
+# [Structure Plane](#Structure-Plane)
+- [Wireframes made in penpot](#Wireframes-made-in-penpotWireframes-made-in-penpot)
+# [External sources](#External-sources)
+- [From bootstrap](#From-bootstrap)
+- [From Font Awesome](#From-Font-Awesome)
+- [From youtube](#From-youtube)
+- [From Wallpapers.com](#From-Wallpapers.com)
+- [From Pinterest](#From-Pinterest)
+- [From AI copilot](#From-AI-copilot)
+- [From freeCodeCamp](#From-freeCodeCamp)
+- [From things I made up](#From-things-I-made-up)
+- [From stack overflow](#From-stack-overflow)
+- [From w3schools](#From-w3schools)
+- [From geeks for geeks website](#From-geeks-for-geeks-website)
+- [From icon-icons](#From-icon-icons)
+# [Debugging](#Debugging)
+- [html validator](#html-validator)
+- [css validator](#css-validator)
+- [Lighthouse](#Lighthouse)
+- [Testing the finshed site](#Testing-the-finshed-site)
 # UX
 # Project goals
 ## Viewer goals
@@ -50,14 +90,14 @@ can promote my film and write accurate books
 2. Write some font awesome links to use star icons in the review star ratings
 3. Use Bootstrap's grid system to make sure the testimonials section is responsive
 # Later I put some different things on my github project like
-# Acceptance criteria
+# Acceptance criteria 2
 1. User story 4 have a table of facts and fictional monsters
 2. User story 3 A booking form for watching films
 3. User story 2 The main page features a table with different prices
 4. User story 1 The homepage features symbols for age ratings and what they mean
 5. User story 1 A list of films that are available with the relevent age ratings
 6. User story 1 Each official age rating symbol is matched with a monster at the stage of its life that represents the age of the people who are allowed to see it.
-# Tasks
+# Tasks 2
 1. User story 4 Make a table of information about fictional monsters
 2. User story 3 Make a form for booking films to watch
 3. User story 3 Make a table using html tags to show different prices
