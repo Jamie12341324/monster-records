@@ -371,6 +371,8 @@ My success page had no errors when I put through the html validator. This is the
 # css validator
 The first time I put my css into the validator it said there were no errors so I don't have any issue fixing for it.
 ---
+![css passing a validator with no errors](assets/images/images-for-readme/css-validator-no-issues.PNG)
+---
 # Lighthouse
 * ![Lighthouse report](assets/images/images-for-readme/light-house.PNG)
 * Lighthouse was used to generate a report but I didn't have enough time to go through it
