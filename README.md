@@ -66,6 +66,9 @@
 - [css validator](#css-validator)
 - [Lighthouse](#Lighthouse)
 - [Testing the finshed site](#Testing-the-finshed-site)
+# [How do you deploy your site?](#How-do-you-deploy-your-site?)
+- [Deployment](#Deployment)
+[Bugs](#Bugs)
 # UX
 # Project goals
 ## Viewer goals
@@ -377,8 +380,21 @@ The first time I put my css into the validator it said there were no errors so I
 * ![Lighthouse report](assets/images/images-for-readme/light-house.PNG)
 * Lighthouse was used to generate a report but I didn't have enough time to go through it
 # Testing the finshed site
-* Test 1 is the navbar and footer stick to the top and bottom when you move the screen which works
-* Test 2 the content is positions so the footer and navbar don't stop you seeing it which it does
+# Test Table
+| Description | Outcome | passed
+---|---|---
+Is the navbar and footer always visable and responsive?|The Navbar and footer stick to the top and bottom|Passed
+Is the content still functional and visable despite the footer and Navbar?|There is visable content|Passed
+The videos are functional and you can watch them?|The videos are playable|passed
+Is the text functional or visable?|Text is white|passed
+Do the tables on all the pages stack so you can still view them on different screen sizes? Are they responsive?|The tables use bootstrap to stack on different screen sizes|passed
+Are the background images are behind the content?|You can see the background images but you can still see the main content infront|passed
+Does the booking form page have all input fields required?|The form has to be fully filled in to do anything|passed
+Does the form has properly been filled in it takes you a success page so you know you did it right?|You get taken to a success page|passed
+Can the site take you to a custom error page?|There is a custom error 404.html page|passed
+# Tests laid out with images and bullet points
+* Test 1 is the navbar and footer sticking to the top and bottom when you move the screen which works
+* Test 2 the content is positioned so the footer and navbar don't stop you seeing it which it does
 * Test 3 you can play the videos on the godzilla, index/home, rodan and king ghidorah pages which works
 * Test 4 the text is visable and the text stands out as white on mostly dark backgrounds
 ![Top of the home page](assets/images/images-for-readme/final-index-page-testing1.PNG)
@@ -401,7 +417,7 @@ for all the pages
 * Test 8 once the form is correctly submited the user is taken to a success page to show everything has worked 
 which it does
 ![form success page](assets/images/images-for-readme/final-success-page-testing2.PNG)
-* Test 9 the site has a custom 404 error pag whcih you can see in the image below
+* Test 9 the site has a custom 404 error pag which you can see in the image below
 ![Error 404 page](assets/images/images-for-readme/error-page-testing.PNG)
 # How do you deploy your site?
 A guide to publishing a site on github was found at 

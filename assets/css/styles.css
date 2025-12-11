@@ -104,6 +104,7 @@ a:hover{
     padding:50px;
     margin:50px;
     margin-top:6rem;
+    max-width: 30%;
 }
 #capital{
     text-transform:uppercase;
