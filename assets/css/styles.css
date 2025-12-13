@@ -86,7 +86,8 @@ a:hover{
     width:100%;
 }
 #form-box{
-    width:60%;
+    width:30%;
+    min-width: 390px;
     margin-left:100px;
     background-color: rgba(0,0,0,0.5);
     color:var(--text-color1);
