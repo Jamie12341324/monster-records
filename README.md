@@ -66,6 +66,7 @@
 - [css validator](#css-validator)
 - [Lighthouse](#Lighthouse)
 - [Testing the finshed site](#Testing-the-finshed-site)
+# [How to make a github repository](#How-to-make-a-github-repository)
 # [How do you deploy your site?](#How-do-you-deploy-your-site?)
 - [Deployment](#Deployment)
 [Bugs](#Bugs)
@@ -173,27 +174,29 @@ images that I actually used in my readme file which the links to are below
 ### notes maybe add buttons that match the color scheme of a page when you hover over them and when you don't
 # External sources
 # From bootstrap
-* [Bootstrap screen sizes for grid options](https://getbootstrap.com/docs/5.3/layout/breakpoints/)
-* [Bootstrap buttons](https://getbootstrap.com/docs/5.3/components/buttons/)
+* [Bootstrap screen sizes for grid options used on the monster stats tables for different screen sizes](https://getbootstrap.com/docs/5.3/layout/breakpoints/)
+* [Bootstrap buttons used to be used on a book now button on the index.html page until it was replaced with a navbar option](https://getbootstrap.com/docs/5.3/components/buttons/)
+* [Bootstrap navbar used on all the pages as the navbar at the top](https://getbootstrap.com/docs/5.3/components/navbar/#how-it-works)
 # From Font Awesome
-* [instagram icon from Font Awesome](https://fontawesome.com/icons/instagram?f=brands&s=solid)
-* [facebook icon from Font Awesome](https://fontawesome.com/icons/facebook?f=brands&s=solid)
-* [x icon from Font Awesome](https://fontawesome.com/icons/square-twitter?f=brands&s=solid)
+* [instagram icon from Font Awesome on the footer](https://fontawesome.com/icons/instagram?f=brands&s=solid)
+* [facebook icon from Font Awesome on the footer](https://fontawesome.com/icons/facebook?f=brands&s=solid)
+* [x icon from Font Awesome on the footer](https://fontawesome.com/icons/square-twitter?f=brands&s=solid)
 # From youtube
-* [NerdOut! musical video from youtube on Godzilla](https://www.youtube.com/watch?v=okMyRuVLVl0)
-* [Aaron Fraser-Nash musical video from youtube on King Ghidorah](https://www.youtube.com/watch?v=S_mnlCuDljI)
-* [Aaron Fraser-Nash musical video from youtube on Rodan](https://www.youtube.com/watch?v=mkoaxHTHzgg)
+* [NerdOut! musical video from youtube on Godzilla used as a trailer on the godzilla.html page](https://www.youtube.com/watch?v=okMyRuVLVl0)
+* [Aaron Fraser-Nash musical video from youtube on King Ghidorah used as a trailer on the king-ghidorah.html page](https://www.youtube.com/watch?v=S_mnlCuDljI)
+* [Aaron Fraser-Nash musical video from youtube on Rodan used as a trailer on the rodan.html page](https://www.youtube.com/watch?v=mkoaxHTHzgg)
 # From Wallpapers.com
-* [Godzilla ocean image](https://wallpapers.com/wallpapers/godzilla-4k-ocean-j4mrrzqjy9vdfhxf.html)
-* [Godzilla city image](https://wallpapers.com/wallpapers/godzilla-dominance-over-cityscape-igsni1rq48nf7yjv.html)
-* [4 Titans image](https://wallpapers.com/wallpapers/rodan-znintsr46vlv41u1.html)
-* [Rodan image](https://wallpapers.com/wallpapers/rodan-1280-x-882-mkjzoe6324kfao20.html)
-* [king ghidorah](https://wallpapers.com/wallpapers/king-ghidorah-1500-x-904-wallpaper-3jelas62x68nb63n.html)
+* [Godzilla ocean image used on booking-form.html as a background image](https://wallpapers.com/wallpapers/godzilla-4k-ocean-j4mrrzqjy9vdfhxf.html)
+* [Godzilla city image used on godzilla.html as a background image as a background image](https://wallpapers.com/wallpapers/godzilla-dominance-over-cityscape-igsni1rq48nf7yjv.html)
+* [4 Titans image used on index.html as a background image](https://wallpapers.com/wallpapers/rodan-znintsr46vlv41u1.html)
+* [Rodan image used on rodan.html as a background image](https://wallpapers.com/wallpapers/rodan-1280-x-882-mkjzoe6324kfao20.html)
+* [king ghidorah image used on king-ghidorah.html as a background image](https://wallpapers.com/wallpapers/king-ghidorah-1500-x-904-wallpaper-3jelas62x68nb63n.html)
 # From Pinterest
-*[image of baby mothra and godzilla for age ratings](https://uk.pinterest.com/pin/818107088541699015/)
+*[image of baby mothra and godzilla for age ratings repurposed for form filled out successfully page called success.html](https://uk.pinterest.com/pin/818107088541699015/)
 # From AI copilot
 * [link to AI chatbot that I used for finding the hex code for the dark navbar theme so I could color match it with the footer](https://copilot.microsoft.com/)
-*[link for AI chatbot for explaining how to do a transparent black background](https://www.bing.com/copilotsearch?q=how+do+you+set+a+id+in+css+to+transparent+black&form=CSBRAND)
+* [link for AI chatbot for explaining how to do a transparent black background which was used on the form on booking-form.html and for the paragraphs on all the pages like the bit about what is the awakening on index.html but also the paragraphs under
+Diamond Muscles, Golden Bones and Molten Cores on the other pages](https://www.bing.com/copilotsearch?q=how+do+you+set+a+id+in+css+to+transparent+black&form=CSBRAND)
 *[link to AI chatbot for explaining how to change in the letters in a tag to uppercase](https://www.bing.com/copilotsearch?q=how+do+you+set+all+the+letter+in+a+tag+to+uppercase+css&form=CSBRAND)
 # From freeCodeCamp
 * [removing underline from link guide](https://www.freecodecamp.org/news/remove-underline-from-link-in-css/)
@@ -202,11 +205,11 @@ images that I actually used in my readme file which the links to are below
 * Times Films and prices are all made up by me
 * The Awakening and the Vita are made up by me so are Diamond Muscles, Golden Bones and Molten Cores
 # From stack overflow
-*[how to center a iframe](https://stackoverflow.com/questions/8366957/how-to-center-an-iframe-horizontally)
+*[how to center a iframe used on the videos on the index.html, godzilla.html, king-ghidorah.html and rodan.html pages](https://stackoverflow.com/questions/8366957/how-to-center-an-iframe-horizontally)
 # From w3schools
-* [centering a table example from w3schools](https://www.w3schools.com/howto/howto_css_table_center.asp)
+* [centering a table example from w3schools used on the on the index.html, godzilla.html, king-ghidorah.html and rodan.html pages](https://www.w3schools.com/howto/howto_css_table_center.asp)
 # From geeks for geeks website
-* [how to have a button with a link wihtout having the button as a child of the a tag](https://www.geeksforgeeks.org/html/how-to-create-an-html-button-that-acts-like-a-link/)
+* [how to have a button with a link wihtout having the button as a child of the a tag was used on a book now button that was later replaced](https://www.geeksforgeeks.org/html/how-to-create-an-html-button-that-acts-like-a-link/)
 # From icon-icons
 * [link to icon site](https://icon-icons.com/search/icons/letter-a)
 # Debugging
@@ -438,11 +441,31 @@ the latest readme file back onto my computer before github
 would let me push any changes.
 Some information and advice on this was obtained
 from stackoverflow.com via google
+# How to make a github repository
+first you click on new or the plus icon in the top-right for a new repository
+![creating repository1](assets/images/images-for-readme/deploy2.PNG)
+Then you need to name your new repository
+![creating repository2](assets/images/images-for-readme/deploy3.PNG)
+Then go to terminal in visual studio code which is at the top-left and go new terminal.
+Then type out the new commands in the terminal in the image below to link you visual studio code folder to
+the github repository.
+These are the commands
+…or create a new repository on the command line
+echo "# deploy-test" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Jamie12341324/deploy-test.git
+git push -u origin main
+![creating repository3](assets/images/images-for-readme/deploy4.PNG)
+The images from github repository and deployment were made by using snipping tool on [github.com](https://github.com/Jamie12341324/deploy-test)
 # Deployment
 The first time I had to delpoy my site I 
-went to setting in github and selcted pages.
-Then I selcted the main branch to delpoy from 
+went to settings in github and selected pages.
+Then I selected the main branch to deploy from 
 and clicked save. Then I waited for my url to appear.
-Some help was obtained from the guide mention above.
+Some help was obtained from the guide mentioned above.
+![image of deployment](assets/images/images-for-readme/deployment.PNG)
 # Bugs
 The booking form dosen't display on a phone properly and that would be the next thing to fix 
