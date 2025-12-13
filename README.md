@@ -211,7 +211,7 @@ Diamond Muscles, Golden Bones and Molten Cores on the other pages](https://www.b
 # From geeks for geeks website
 * [how to have a button with a link wihtout having the button as a child of the a tag was used on a book now button that was later replaced](https://www.geeksforgeeks.org/html/how-to-create-an-html-button-that-acts-like-a-link/)
 # From icon-icons
-* [link to icon site](https://icon-icons.com/search/icons/letter-a)
+* [link to icon site which is where the image for the fav icon was found](https://icon-icons.com/search/icons/letter-a)
 # Debugging
 # problem 1
 The navbar button wasn't working and when you click on it nothing happens the issue was I was missing a 

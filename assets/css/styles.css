@@ -89,6 +89,7 @@ a:hover{
     width:30%;
     min-width: 390px;
     margin-left:100px;
+    margin-bottom: 500px;
     background-color: rgba(0,0,0,0.5);
     color:var(--text-color1);
 }
@@ -147,4 +148,7 @@ header{
 }
 .footer-text{
     padding:5px;
+}
+footer{
+    max-height:80px;
 }
