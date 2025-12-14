@@ -1,6 +1,8 @@
 # project1 or records about monsters
 # Table of contents
 [UX](#UX)
+[Audience](#Audience)
+[Purpose](#Purpose)
 [Project goals](#Project-goals)
 [Viewer goals](#Viewer-goals)
 [Strategy Challenge](#Strategy-Challenge)
@@ -71,9 +73,23 @@
 - [Deployment](#Deployment)
 [Bugs](#Bugs)
 # UX
+# Audience
+The main target audience for this website is 12 to 18 year old boys.
+People that have started watching media with higher age ratings and grown to
+like and tolerate monsters in films. These monsters have a element of horror
+, some scenes with death (monsters eating people) and actors acting about tramua.
+The main target audience know this time of monster and wants to watch films
+about them. The audience is also a fan of youtube raps about monsters and other charecters.
+# Purpose
+The purpose is to talk about the monsters and give a brief explantion about a key part
+of a monsters story like the awakening, diamond muscles, golden bones and the molten core.
+Also to show muscial videos to get across who the monsters are and generate a connection.
+However these things all support the main purpose which is to sell monster cinema tickets 
+and DVDs. The way the support works is to help make the audience feel the monsters are epic
+by showing some cool wallpapers, great music and new stories. The intention was to have a 
+relevent advertising panel but time did not permit this.
 # Project goals
 ## Viewer goals
-The main target audience for this website is 12 to 18 year olds
 Viewer goals are:
 * Interresting monster videos to watch
 * Have monster facts about how many 12 year old tall a monster is
