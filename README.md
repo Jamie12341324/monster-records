@@ -76,14 +76,14 @@
 # Audience
 The main target audience for this website is 12 to 18 year old boys.
 People that have started watching media with higher age ratings and grown to
-like and tolerate monsters in films. These monsters have a element of horror
-, some scenes with death (monsters eating people) and actors acting about tramua.
-The main target audience know this time of monster and wants to watch films
-about them. The audience is also a fan of youtube raps about monsters and other charecters.
+like and tolerate monsters in films. These monsters have an element of horror
+, some scenes with death (monsters eating people) and actors acting about trauma.
+The main target audience know this type of monster and wants to watch films
+about them. The audience is also a fan of youtube raps about monsters and other characters.
 # Purpose
-The purpose is to talk about the monsters and give a brief explantion about a key part
+The purpose is to talk about the monsters and give a brief explanation about a key part
 of a monsters story like the awakening, diamond muscles, golden bones and the molten core.
-Also to show muscial videos to get across who the monsters are and generate a connection.
+Also to show musical videos to get across who the monsters are and generate a connection.
 However these things all support the main purpose which is to sell monster cinema tickets 
 and DVDs. The way the support works is to help make the audience feel the monsters are epic
 by showing some cool wallpapers, great music and new stories. The intention was to have a 
@@ -92,8 +92,7 @@ relevent advertising panel but time did not permit this.
 ## Viewer goals
 Viewer goals are:
 * Interresting monster videos to watch
-* Have monster facts about how many 12 year old tall a monster is
-* 
+* Have monster facts about how many 12 year olds tall a monster is
 # Strategy Challenge
 Opportunity/Problem|Importance|Viability/Feasibility|Total
 ---|---|---|---
@@ -103,11 +102,11 @@ Search engine optimization|4|3|7
 Build a art style|3|2|5
 Public voting on how many people agree with something|4|1|5 
 # Business goals
-Promot your website and brand to sell products and host relevent adverts
-Use meta tag and semantics to help with search engine optimization
-Accessable with alt tags. The value the website owner gains is to 
-sell monster related merchandice (t-shirts, pencils, notebook, rubbers, artwork nf films) 
-call to action (request your order with a order number for each product on a order form)
+Promote your website and brand to sell products and host relevent adverts.
+Use meta tag and semantics to help with search engine optimization.
+Accessible with alt tags. The value the website owner gains is to 
+sell monster related merchandise (t-shirts, pencils, notebook, rubbers, artwork and films) 
+call to action (request your order with a order number for each product on an order form)
 # User needs
 To get the information that they want
 For the information to be clear
@@ -115,13 +114,13 @@ sign up
 informed about new products
 useful links 
 Who are the users?
-Children interrested in monster films
+Children interested in monster films
 What are the Users' needs?
 Links to websites about cinemas and age ratings
 # User Stories
 1. As parent with a child that is interested in monsters I want to know what age ratings
 there are on monster films so that I can decide if I want to take my child to see a monster film
-2. As a teacher that wants to start a film club I want to know how much a monster film cd costs
+2. As a teacher that wants to start a film club I want to know how much a monster film dvd costs
 so I can decide what films I might put on in a film club
 3. As a child who wants to watch monster films I want to go to a cinema website so
 I can reserve my spot at a cinema to watch a film
@@ -131,7 +130,7 @@ can promote my film and write accurate books
 # Acceptance criteria
 1. The shop page displays a list of testimonials
 2. The shop page displays a star rating
-3. The testimonials section is reposnisve and looks good on multiple devices
+3. The testimonials section is responsive and looks good on multiple devices
 # Tasks
 1. write a html unordered list for the testimonials
 2. Write some font awesome links to use star icons in the review star ratings
@@ -149,8 +148,8 @@ can promote my film and write accurate books
 2. User story 3 Make a form for booking films to watch
 3. User story 3 Make a table using html tags to show different prices
 4. User story 1 Integrate some age rating symbols using image tags to the website
-5. User story 1 Make an unordered list of films next to symbols for there age rating
-6. User story 1 Source some images of different aged monster to use with image tags
+5. User story 1 Make an unordered list of films next to symbols for their age rating
+6. User story 1 Source some images of different aged monsters to use with image tags
 # Scope Challenge
 Feature|Difficulty
 ---|---
@@ -276,9 +275,9 @@ a position absolute which works
 ![working header position](assets/images/images-for-readme/error8.PNG)
 ---
 # problem 9
-When I first made the table for age and height the columns were to close together so I
-tested a style with extra width in the end I made a class called table-1 with set the width
-to 150 solving the isssue so that the is enough distence between the columns so that you can read the text
+When I first made the table for age and height the columns were too close together so I
+tested a style with extra width. In the end I made a class called table-1 and set the width
+to 150 solving the isssue so that there is enough distence between the columns so that you can read the text
 ---
 ![table styling](assets/images/images-for-readme/error9.PNG)
 ---
@@ -298,7 +297,7 @@ First I tired to import a button from boostrap
 ![button tag](assets/images/images-for-readme/error12.PNG)
 ---
 # problem 13
-I needed a link from the book now button to the booking-form page but the a link made the text
+I needed a link from the book now button to the booking-form page but the <a> (anchor tag) link made the text
 on the button blue and highlighted
 ---
 ![button with a tag and highlighted blue text](assets/images/images-for-readme/error13.PNG)
@@ -309,11 +308,11 @@ I tried making my own button but it took up the whole screen so I scraped it
 ![](assets/images/images-for-readme/error14.PNG)
 ---
 # problem 15
-I changed my button so that the button tag was inside an a tag instead of it being the other way around
-this solved the issue of th whole button going white when you hovered over the very edge (when you hover over the
-text the text goes black so you can still see it) thi might be because I had some styles for the a and button tag 
-that were pretty much the same and the bootstrap was overwriting the button tag class but not the a tag so things only 
-chnaged while you hover over the a tag which just has text
+I changed my button so that the button tag was inside an <a> (anchor tag) tag instead of it being the other way around.
+This solved the issue of the whole button going white when you hovered over the very edge (when you hover over the
+text the text goes black so you can still see it) this might be because I had some styles for the <a> (anchor tag) and button tag 
+that were pretty much the same and the bootstrap was overwriting the button tag class but not the <a> (anchor tag) tag so things only 
+changed while you hover over the <a> (anchor tag) tag which just has text.
 ![a and button tags in the right order](assets/images/images-for-readme/error15.PNG)
 ---
 # html validator
@@ -361,9 +360,7 @@ These are the issues I got when I put my king-ghidorah.html page into html valid
 ![The problems I had when I first put my king-ghidorah.html file into html validator](assets/images/images-for-readme/king-ghidorah-html-validator.PNG)
 ---
 # problem 21
-There was also a frameborder that got removed just like with the index.html page and also similarly a / that I removed I also add a closing
-main tag. None of which I have images for king-ghidorah because I already have a image of all those issues for other pages. After putting
-the page back into the validator there were no more errors. This is the html validator passing with no errors.
+There was also a frameborder that got removed just like with the index.html page and also similarly a / that I removed I also added a closing main tag. None of which I have images for king-ghidorah because I already have a image of all those issues for other pages. After putting the page back into the validator there were no more errors. This is the html validator passing with no errors.
 ---
 ![king-ghidorah.html passing a html validator with no errors](assets/images/images-for-readme/king-ghidorah-no-issues-html-validator.PNG)
 ---
@@ -381,7 +378,7 @@ These are the issues I got when I put my booking-form.html page into html valida
 ---
 # problem 22
 ![form with no white spacing](assets/images/images-for-readme/booking-forn-validator1.PNG)
-Here there was the issue with the random / which has now been removed. The other six issues are pretty much the same issue where I incorrectly used white space on a label id but 3 times for input tags and 3 times for label tags. This is the html validator passing with no errors.
+Here there was the issue with the accidental / which has now been removed. The other six issues are pretty much the same issue where I incorrectly used white space on a label id but 3 times for input tags and 3 times for label tags. This is the html validator passing with no errors.
 ---
 ![booking-form.html passing a validator with no errors](assets/images/images-for-readme/booking-form-no-issues-html-validator.PNG)
 ---
@@ -405,23 +402,22 @@ The first time I put my css into the validator it said there were no errors so I
 Is the navbar and footer always visable and responsive?|The Navbar and footer stick to the top and bottom|Passed
 Is the content still functional and visable despite the footer and Navbar?|There is visable content|Passed
 The videos are functional and you can watch them?|The videos are playable|passed
-Is the text functional or visable?|Text is white|passed
+Is the text functional or visible?|Text is white|passed
 Do the tables on all the pages stack so you can still view them on different screen sizes? Are they responsive?|The tables use bootstrap to stack on different screen sizes|passed
-Are the background images are behind the content?|You can see the background images but you can still see the main content infront|passed
+Are the background images behind the content?|You can see the background images but you can still see the main content infront|passed
 Does the booking form page have all input fields required?|The form has to be fully filled in to do anything|passed
-Does the form has properly been filled in it takes you a success page so you know you did it right?|You get taken to a success page|passed
+Does the form take you a success page after you fill it out properly so you know that you did it right?|You get taken to a success page|passed
 Can the site take you to a custom error page?|There is a custom error 404.html page|passed
 # Tests laid out with images and bullet points
 * Test 1 is the navbar and footer sticking to the top and bottom when you move the screen which works
 * Test 2 the content is positioned so the footer and navbar don't stop you seeing it which it does
 * Test 3 you can play the videos on the godzilla, index/home, rodan and king ghidorah pages which works
-* Test 4 the text is visable and the text stands out as white on mostly dark backgrounds
+* Test 4 the text is visible and the text stands out as white on mostly dark backgrounds
 ![Top of the home page](assets/images/images-for-readme/final-index-page-testing1.PNG)
 ![Bottom of the home page](assets/images/images-for-readme/final-index-page-testing2.PNG)
 ![Top of the godzilla page](assets/images/images-for-readme/final-godzilla-page-testing2.PNG)
 ---
-* Test 5 the tables on the godzilla, king ghidorah and rodan pages are reponsive so they stack when the screen is to small to see them all at once
-here we have images of the tables each at 1/6, 1/3, 1/2 and 1/1 of the full screen for sizes xl lg md and default
+* Test 5 the tables on the godzilla, king ghidorah and rodan pages are reponsive so they stack when the screen is too small to see them all at once. Here we have images of the tables each at 1/6, 1/3, 1/2 and 1/1 of the full screen for sizes xl lg md and default
 which could represent viewing on desktop tablet and mobile which has seemed to work in the images below
 ---
 ![resized godzilla page](assets/images/images-for-readme/final-godzilla-page-testing2-grid.PNG)
@@ -441,7 +437,7 @@ which it does
 # How do you deploy your site?
 A guide to publishing a site on github was found at 
 [Link to guide on publishing](https://www.educative.io/answers/how-to-make-your-site-live-on-github-pages)
-To add a new file you use the git commnads 
+To add a new file you use the git commands 
 git add new_file_name 
 git commit -m "comments about the new file"
 git push
