@@ -399,9 +399,16 @@ The first time I put my css into the validator it said there were no errors so I
 # Test Table
 | Description | Outcome | passed
 ---|---|---
-Is the navbar and footer always visable and responsive?|The Navbar and footer stick to the top and bottom|Passed
+Is the navbar and footer always visable and responsive on the index.html home page?|The Navbar and footer stick to the top and bottom|Passed
+Is the navbar and footer always visable and responsive on the godzilla.html page?|The Navbar and footer stick to the top and bottom|Passed
+Is the navbar and footer always visable and responsive on the king-ghidorah.html page?|The Navbar and footer stick to the top and bottom|Passed
+Is the navbar and footer always visable and responsive on the rodan.html page?|The Navbar and footer stick to the top and bottom|Passed
+Is the navbar and footer always visable and responsive on the success.html page?|The Navbar and footer stick to the top and bottom|Passed
 Is the content still functional and visable despite the footer and Navbar?|There is visable content|Passed
-The videos are functional and you can watch them?|The videos are playable|passed
+The video on the index.html home page are functional and you can watch them?|The video are playable|passed
+The video on the godzilla.html page are functional and you can watch them?|The video are playable|passed
+The video on the king-ghidorah page are functional and you can watch them?|The video are playable|passed
+The video on the rodan.html page are functional and you can watch them?|The video are playable|passed
 Is the text functional or visible?|Text is white|passed
 Do the tables on all the pages stack so you can still view them on different screen sizes? Are they responsive?|The tables use bootstrap to stack on different screen sizes|passed
 Are the background images behind the content?|You can see the background images but you can still see the main content infront|passed
