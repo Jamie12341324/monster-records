@@ -410,7 +410,9 @@ The video on the godzilla.html page are functional and you can watch them?|The v
 The video on the king-ghidorah page are functional and you can watch them?|The video are playable|passed
 The video on the rodan.html page are functional and you can watch them?|The video are playable|passed
 Is the text functional or visible?|Text is white|passed
-Do the tables on all the pages stack so you can still view them on different screen sizes? Are they responsive?|The tables use bootstrap to stack on different screen sizes|passed
+Do the tables on the godzilla.html page stack so you can still view them on different screen sizes? Are they responsive?|The tables use bootstrap to stack on different screen sizes|passed
+Do the tables on the king-ghidorah .html page stack so you can still view them on different screen sizes? Are they responsive?|The tables use bootstrap to stack on different screen sizes|passed
+Do the tables on the rodan.html page stack so you can still view them on different screen sizes? Are they responsive?|The tables use bootstrap to stack on different screen sizes|passed
 Are the background images behind the content?|You can see the background images but you can still see the main content infront|passed
 Does the booking form page have all input fields required?|The form has to be fully filled in to do anything|passed
 Does the form take you a success page after you fill it out properly so you know that you did it right?|You get taken to a success page|passed
