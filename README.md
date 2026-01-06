@@ -22,7 +22,7 @@
 - [Release-3](#Release-3)
 - [Final Total](#Final-Total)
 # [Structure Plane](#Structure-Plane)
-- [Wireframes made in penpot](#Wireframes-made-in-penpotWireframes-made-in-penpot)
+- [Wireframes made in penpot](#Wireframes-made-in-penpot)
 # [External sources](#External-sources)
 - [From bootstrap](#From-bootstrap)
 - [From Font Awesome](#From-Font-Awesome)
