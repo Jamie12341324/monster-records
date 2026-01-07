@@ -71,7 +71,8 @@
 # [How to make a github repository](#How-to-make-a-github-repository)
 # [How do you deploy your site?](#How-do-you-deploy-your-site?)
 - [Deployment](#Deployment)
-[Bugs](#Bugs)
+- [Bugs](#Bugs)
+- [Images of the finished site](#Images-of-finished-site)
 # UX
 # Audience
 The main target audience for this website is 12 to 18 year old boys.
@@ -399,18 +400,18 @@ The first time I put my css into the validator it said there were no errors so I
 # Test Table
 | Description | Outcome | passed
 ---|---|---
-Is the navbar and footer always visable and responsive on the index.html home page?|The Navbar and footer stick to the top and bottom|Passed
-Is the navbar and footer always visable and responsive on the godzilla.html page?|The Navbar and footer stick to the top and bottom|Passed
-Is the navbar and footer always visable and responsive on the king-ghidorah.html page?|The Navbar and footer stick to the top and bottom|Passed
-Is the navbar and footer always visable and responsive on the rodan.html page?|The Navbar and footer stick to the top and bottom|Passed
-Is the navbar and footer always visable and responsive on the success.html page?|The Navbar and footer stick to the top and bottom|Passed
+Is the navbar and footer always visable on the index.html home page?|The Navbar and footer stick to the top and bottom|Passed
+Is the navbar and footer always visable on the godzilla.html page?|The Navbar and footer stick to the top and bottom|Passed
+Is the navbar and footer always visable on the king-ghidorah.html page?|The Navbar and footer stick to the top and bottom|Passed
+Is the navbar and footer always visable on the rodan.html page?|The Navbar and footer stick to the top and bottom|Passed
+Is the navbar and footer always visable on the success.html page?|The Navbar and footer stick to the top and bottom|Passed
 Is the content still functional and visable despite the footer and Navbar?|There is visable content|Passed
 The video on the index.html home page are functional and you can watch them?|The video are playable|passed
 The video on the godzilla.html page are functional and you can watch them?|The video are playable|passed
 The video on the king-ghidorah page are functional and you can watch them?|The video are playable|passed
 The video on the rodan.html page are functional and you can watch them?|The video are playable|passed
 Is the text functional or visible?|Text is white|passed
-Do the tables on the godzilla.html page stack so you can still view them on different screen sizes? Are they responsive?|The tables use bootstrap to stack on different screen sizes|passed
+Do the tables on the godzilla.html page stack so you can still view them on different screen sizes like (375 * 667), (1024 * 1366) and (1280 * 800)? Are they responsive?|The tables use bootstrap to stack on different screen sizes|passed
 Do the tables on the king-ghidorah .html page stack so you can still view them on different screen sizes? Are they responsive?|The tables use bootstrap to stack on different screen sizes|passed
 Do the tables on the rodan.html page stack so you can still view them on different screen sizes? Are they responsive?|The tables use bootstrap to stack on different screen sizes|passed
 Are the background images behind the content?|You can see the background images but you can still see the main content infront|passed
@@ -426,9 +427,21 @@ Can the site take you to a custom error page?|There is a custom error 404.html p
 ![Bottom of the home page](assets/images/images-for-readme/final-index-page-testing2.PNG)
 ![Top of the godzilla page](assets/images/images-for-readme/final-godzilla-page-testing2.PNG)
 ---
-* Test 5 the tables on the godzilla, king ghidorah and rodan pages are reponsive so they stack when the screen is too small to see them all at once. Here we have images of the tables each at 1/6, 1/3, 1/2 and 1/1 of the full screen for sizes xl lg md and default
-which could represent viewing on desktop tablet and mobile which has seemed to work in the images below
+* Test 5 the tables on the godzilla, king ghidorah and rodan pages are reponsive so they stack when the screen is too small to see them all at once. Here we have images of the tables each at 1/6, 1/4, 1/2 and 1/1 of the full screen for sizes xl lg md and default
+which could represent viewing on desktop tablet and mobile which has seemed to work in the images below. To test this I have viewed
+the tables on screen sizes (375 * 667), (1024 * 1366) and (1280 * 800).
 ---
+* screen size 375 * 667
+---
+![screen size godzilla page](assets/images/images-for-readme/godzilla-page-small-screen-testing.PNG)
+---
+* screen size 1024 * 1366
+---
+![screen size godzilla page](assets/images/images-for-readme/godzilla-page-medium-screen-testing.PNG)
+---
+* screen size 1280 * 800
+---
+![screen size godzilla page](assets/images/images-for-readme/godzilla-page-large-screen-testing.PNG)
 ![resized godzilla page](assets/images/images-for-readme/final-godzilla-page-testing2-grid.PNG)
 ![resized godzilla page](assets/images/images-for-readme/final-godzilla-page-testing2-grid2.PNG)
 ![resized godzilla page](assets/images/images-for-readme/final-godzilla-page-testing2-grid3.PNG)
@@ -490,3 +503,21 @@ Some help was obtained from the guide mentioned above.
 ![image of deployment](assets/images/images-for-readme/deployment.PNG)
 # Bugs
 The booking form dosen't display on a phone properly and that would be the next thing to fix 
+# Images of finished site
+---
+* Here is a image for the finished user stories age ratings, prices and times.
+---
+![finished user story age ratings, prices and times](assets/images/images-for-readme/finishedpricesageratings.PNG)
+---
+* Here is a image for the finished user story stats.
+---
+![finished user story stats](assets/images/images-for-readme/finishedsitestats.PNG)
+---
+* Here are some images of the rest of the pages
+---
+![finished home page](assets/images/images-for-readme/homefinished1.PNG)
+![finished godzilla page](assets/images/images-for-readme/godzillafinished.PNG)
+![finished king ghidorah page](assets/images/images-for-readme/kingghidorahfinished.PNG)
+![finished rodan page](assets/images/images-for-readme/rodanfinished.PNG)
+![finished book now page](assets/images/images-for-readme/booknowfinished.PNG)
+![finished success page](assets/images/images-for-readme/successfinished.PNG)
