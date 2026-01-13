@@ -83,7 +83,7 @@ The main target audience know this type of monster and wants to watch films
 about them. The audience is also a fan of youtube raps about monsters and other characters.
 # Purpose
 The purpose is to talk about the monsters and give a brief explanation about a key part
-of a monsters story like the awakening, diamond muscles, golden bones and the molten core.
+of a monster's story like the awakening, diamond muscles, golden bones and the molten core.
 Also to show musical videos to get across who the monsters are and generate a connection.
 However these things all support the main purpose which is to sell monster cinema tickets 
 and DVDs. The way the support works is to help make the audience feel the monsters are epic
@@ -92,7 +92,7 @@ relevent advertising panel but time did not permit this.
 # Project goals
 ## Viewer goals
 Viewer goals are:
-* Interresting monster videos to watch
+* Interesting monster videos to watch
 * Have monster facts about how many 12 year olds tall a monster is
 # Strategy Challenge
 Opportunity/Problem|Importance|Viability/Feasibility|Total
@@ -100,7 +100,7 @@ Opportunity/Problem|Importance|Viability/Feasibility|Total
 Build a podcast|4|1|5
 Build a brand|3|3|6
 Search engine optimization|4|3|7
-Build a art style|3|2|5
+Build an art style|3|2|5
 Public voting on how many people agree with something|4|1|5 
 # Business goals
 Promote your website and brand to sell products and host relevent adverts.
@@ -164,7 +164,7 @@ tables|1
 lists|1
 ## Product Rollout
 ### Release 1
-iframes, background image and main pag. Release 1 total difficulty points 4
+iframes, background image and main page. Release 1 total difficulty points 4
 ### Release 2 
 footer and tables lists. Release 2 total difficulty points 3
 ### Release 3
@@ -208,12 +208,11 @@ images that I actually used in my readme file which the links to are below
 * [Rodan image used on rodan.html as a background image](https://wallpapers.com/wallpapers/rodan-1280-x-882-mkjzoe6324kfao20.html)
 * [king ghidorah image used on king-ghidorah.html as a background image](https://wallpapers.com/wallpapers/king-ghidorah-1500-x-904-wallpaper-3jelas62x68nb63n.html)
 # From Pinterest
-*[image of baby mothra and godzilla for age ratings repurposed for form filled out successfully page called success.html](https://uk.pinterest.com/pin/818107088541699015/)
+* [image of baby mothra and godzilla for age ratings repurposed for form filled out successfully page called success.html](https://uk.pinterest.com/pin/818107088541699015/)
 # From AI copilot
-* [link to AI chatbot that I used for finding the hex code for the dark navbar theme so I could color match it with the footer](https://copilot.microsoft.com/)
-* [link for AI chatbot for explaining how to do a transparent black background which was used on the form on booking-form.html and for the paragraphs on all the pages like the bit about what is the awakening on index.html but also the paragraphs under
-Diamond Muscles, Golden Bones and Molten Cores on the other pages](https://www.bing.com/copilotsearch?q=how+do+you+set+a+id+in+css+to+transparent+black&form=CSBRAND)
-*[link to AI chatbot for explaining how to change in the letters in a tag to uppercase](https://www.bing.com/copilotsearch?q=how+do+you+set+all+the+letter+in+a+tag+to+uppercase+css&form=CSBRAND)
+* [link to AI chatbot that I used for finding the hex code for the dark navbar theme so I could color match it with the footer a link to the exact information could not be reproduced so I have a link to the chatbot I used](https://copilot.microsoft.com/)
+* [link for AI chatbot for explaining how to do a transparent black background which was used on the form on booking-form.html and for the paragraphs on all the pages like the bit about what is the awakening on index.html but also the paragraphs under Diamond Muscles, Golden Bones and Molten Cores on the other pages](https://www.bing.com/copilotsearch?q=how+do+you+set+a+id+in+css+to+transparent+black&form=CSBRAND)
+* [link to AI chatbot for explaining how to change in the letters in a tag to uppercase](https://www.bing.com/copilotsearch?q=how+do+you+set+all+the+letter+in+a+tag+to+uppercase+css&form=CSBRAND)
 # From freeCodeCamp
 * [removing underline from link guide](https://www.freecodecamp.org/news/remove-underline-from-link-in-css/)
 # From things I made up
@@ -278,7 +277,7 @@ a position absolute which works
 # problem 9
 When I first made the table for age and height the columns were too close together so I
 tested a style with extra width. In the end I made a class called table-1 and set the width
-to 150 solving the isssue so that there is enough distence between the columns so that you can read the text
+to 150 solving the isssue so that there is enough distance between the columns so that you can read the text
 ---
 ![table styling](assets/images/images-for-readme/error9.PNG)
 ---
@@ -400,18 +399,18 @@ The first time I put my css into the validator it said there were no errors so I
 # Test Table
 | Description | Outcome | passed
 ---|---|---
-Is the navbar and footer always visable on the index.html home page?|The Navbar and footer stick to the top and bottom|Passed
-Is the navbar and footer always visable on the godzilla.html page?|The Navbar and footer stick to the top and bottom|Passed
-Is the navbar and footer always visable on the king-ghidorah.html page?|The Navbar and footer stick to the top and bottom|Passed
-Is the navbar and footer always visable on the rodan.html page?|The Navbar and footer stick to the top and bottom|Passed
-Is the navbar and footer always visable on the success.html page?|The Navbar and footer stick to the top and bottom|Passed
-Is the content still functional and visable despite the footer and Navbar?|There is visable content|Passed
+Is the navbar and footer always visible on the index.html home page?|The Navbar and footer stick to the top and bottom|Passed
+Is the navbar and footer always visible on the godzilla.html page?|The Navbar and footer stick to the top and bottom|Passed
+Is the navbar and footer always visible on the king-ghidorah.html page?|The Navbar and footer stick to the top and bottom|Passed
+Is the navbar and footer always visible on the rodan.html page?|The Navbar and footer stick to the top and bottom|Passed
+Is the navbar and footer always visible on the success.html page?|The Navbar and footer stick to the top and bottom|Passed
+Is the content still functional and visible despite the footer and Navbar?|There is visible content|Passed
 The video on the index.html home page are functional and you can watch them?|The video are playable|passed
 The video on the godzilla.html page are functional and you can watch them?|The video are playable|passed
 The video on the king-ghidorah page are functional and you can watch them?|The video are playable|passed
 The video on the rodan.html page are functional and you can watch them?|The video are playable|passed
 Is the text functional or visible?|Text is white|passed
-Do the tables on the godzilla.html page stack so you can still view them on different screen sizes like (375 * 667), (1024 * 1366) and (1280 * 800)? Are they responsive?|The tables use bootstrap to stack on different screen sizes|passed
+Do the tables on the godzilla.html page stack so you can still view them on different screen sizes like (375 * 667), (1024 * 1366) and (1280 * 800) (mobile tablet and desktop)? Are they responsive?|The tables use bootstrap to stack on different screen sizes|passed
 Do the tables on the king-ghidorah .html page stack so you can still view them on different screen sizes? Are they responsive?|The tables use bootstrap to stack on different screen sizes|passed
 Do the tables on the rodan.html page stack so you can still view them on different screen sizes? Are they responsive?|The tables use bootstrap to stack on different screen sizes|passed
 Are the background images behind the content?|You can see the background images but you can still see the main content infront|passed
