@@ -422,9 +422,9 @@ Can the site take you to a custom error page?|There is a custom error 404.html p
 * Test 2 the content is positioned so the footer and navbar don't stop you seeing it which it does
 * Test 3 you can play the videos on the godzilla, index/home, rodan and king ghidorah pages which works
 * Test 4 the text is visible and the text stands out as white on mostly dark backgrounds
-![Top of the home page](assets/images/images-for-readme/final-index-page-testing1.PNG)
-![Bottom of the home page](assets/images/images-for-readme/final-index-page-testing2.PNG)
-![Top of the godzilla page](assets/images/images-for-readme/final-godzilla-page-testing2.PNG)
+![Top of the home page](assets/images/images-for-readme/finishedhome.PNG)
+![Bottom of the home page](assets/images/images-for-readme/finishedhomebottom.PNG)
+![Top of the godzilla page](assets/images/images-for-readme/finishedgodzillabottom.PNG)
 ---
 * Test 5 the tables on the godzilla, king ghidorah and rodan pages are reponsive so they stack when the screen is too small to see them all at once. Here we have images of the tables each at 1/6, 1/4, 1/2 and 1/1 of the full screen for sizes xl lg md and default
 which could represent viewing on desktop tablet and mobile which has seemed to work in the images below. To test this I have viewed
@@ -432,18 +432,18 @@ the tables on screen sizes (375 * 667), (1024 * 1366) and (1280 * 800).
 ---
 * screen size 375 * 667
 ---
-![screen size godzilla page](assets/images/images-for-readme/godzilla-page-small-screen-testing.PNG)
+![screen size godzilla page](assets/images/images-for-readme/godzilla-small-screen-testing.PNG)
 ---
 * screen size 1024 * 1366
 ---
-![screen size godzilla page](assets/images/images-for-readme/godzilla-page-medium-screen-testing.PNG)
+![screen size godzilla page](assets/images/images-for-readme/godzilla-medium-screen-testing.PNG)
 ---
 * screen size 1280 * 800
 ---
-![screen size godzilla page](assets/images/images-for-readme/godzilla-page-large-screen-testing.PNG)
-![resized godzilla page](assets/images/images-for-readme/final-godzilla-page-testing2-grid.PNG)
-![resized godzilla page](assets/images/images-for-readme/final-godzilla-page-testing2-grid2.PNG)
-![resized godzilla page](assets/images/images-for-readme/final-godzilla-page-testing2-grid3.PNG)
+![screen size godzilla page](assets/images/images-for-readme/godzilla-large-screen-testing.PNG)
+![resized godzilla page](assets/images/images-for-readme/godzilla-testing-grid1.PNG)
+![resized godzilla page](assets/images/images-for-readme/godzilla-testing-grid2.PNG)
+![resized godzilla page](assets/images/images-for-readme/godzilla-testing-grid3.PNG)
 * Test 6 the background images fill the avaliable space and are behind the main content which I think is true 
 for all the pages
 ![king ghidorah page](assets/images/images-for-readme/finishedkingghidorah.PNG)
@@ -506,7 +506,7 @@ The booking form dosen't display on a phone properly and that would be the next 
 ---
 * Here is a image for the finished user stories age ratings, prices and times.
 ---
-![finished user story age ratings, prices and times](assets/images/images-for-readme/homefinished2.PNG)
+![finished user story age ratings, prices and times](assets/images/images-for-readme/finishedhome.PNG)
 ---
 * Here is a image for the finished user story stats.
 ---
@@ -514,7 +514,7 @@ The booking form dosen't display on a phone properly and that would be the next 
 ---
 * Here are some images of the rest of the pages
 ---
-![finished home page](assets/images/images-for-readme/homefinished2.PNG)
+![finished home page](assets/images/images-for-readme/finishedhome.PNG)
 ![finished godzilla page](assets/images/images-for-readme/finishedgodzilla.PNG)
 ![finished king ghidorah page](assets/images/images-for-readme/finishedkingghidorah.PNG)
 ![finished rodan page](assets/images/images-for-readme/finishedrodan.PNG)
