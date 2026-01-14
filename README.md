@@ -446,13 +446,13 @@ the tables on screen sizes (375 * 667), (1024 * 1366) and (1280 * 800).
 ![resized godzilla page](assets/images/images-for-readme/final-godzilla-page-testing2-grid3.PNG)
 * Test 6 the background images fill the avaliable space and are behind the main content which I think is true 
 for all the pages
-![king ghidorah page](assets/images/images-for-readme/final-king-ghidorah-page-testing1.PNG)
-![rodan page](assets/images/images-for-readme/final-rodan-page-testing1.PNG)
+![king ghidorah page](assets/images/images-for-readme/finishedkingghidorah.PNG)
+![rodan page](assets/images/images-for-readme/finishedrodan.PNG)
 * Test 7 the form has all fields required before any information can be submited which is true
-![form page](assets/images/images-for-readme/final-form-page-testing2.PNG)
+![form page](assets/images/images-for-readme/finsihedform.PNG)
 * Test 8 once the form is correctly submited the user is taken to a success page to show everything has worked 
 which it does
-![form success page](assets/images/images-for-readme/final-success-page-testing2.PNG)
+![form success page](assets/images/images-for-readme/finishedsuccess.PNG)
 * Test 9 the site has a custom 404 error pag which you can see in the image below
 ![Error 404 page](assets/images/images-for-readme/error-page-testing.PNG)
 # How do you deploy your site?
@@ -506,17 +506,17 @@ The booking form dosen't display on a phone properly and that would be the next 
 ---
 * Here is a image for the finished user stories age ratings, prices and times.
 ---
-![finished user story age ratings, prices and times](assets/images/images-for-readme/finishedpricesageratings.PNG)
+![finished user story age ratings, prices and times](assets/images/images-for-readme/homefinished2.PNG)
 ---
 * Here is a image for the finished user story stats.
 ---
-![finished user story stats](assets/images/images-for-readme/finishedsitestats.PNG)
+![finished user story stats](assets/images/images-for-readme/finishedgodzilla.PNG)
 ---
 * Here are some images of the rest of the pages
 ---
-![finished home page](assets/images/images-for-readme/homefinished1.PNG)
-![finished godzilla page](assets/images/images-for-readme/godzillafinished.PNG)
-![finished king ghidorah page](assets/images/images-for-readme/kingghidorahfinished.PNG)
-![finished rodan page](assets/images/images-for-readme/rodanfinished.PNG)
-![finished book now page](assets/images/images-for-readme/booknowfinished.PNG)
-![finished success page](assets/images/images-for-readme/successfinished.PNG)
+![finished home page](assets/images/images-for-readme/homefinished2.PNG)
+![finished godzilla page](assets/images/images-for-readme/finishedgodzilla.PNG)
+![finished king ghidorah page](assets/images/images-for-readme/finishedkingghidorah.PNG)
+![finished rodan page](assets/images/images-for-readme/finishedrodan.PNG)
+![finished book now page](assets/images/images-for-readme/finsihedform.PNG)
+![finished success page](assets/images/images-for-readme/finishedsuccess.PNG)
